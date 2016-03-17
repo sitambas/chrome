@@ -1,0 +1,15 @@
+.overlay {
+    position: fixed;
+    width: 200px;
+    height: 65px;
+    top: 0;
+    z-index: 999;
+    right: 0;
+    text-align: center;
+    padding: 10px;
+    background: rgba(0,0,0,0.9);
+    color: #fff;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 43px;
+}
